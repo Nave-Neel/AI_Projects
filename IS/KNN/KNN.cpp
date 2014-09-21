@@ -1,5 +1,7 @@
 class KNN{
 
+	
+
 	KNN(trainingset);
 
 	// does the kNN on training set using leave-one out
