@@ -1,0 +1,23 @@
+
+@attribute 1 LOC_BLANK numeric
+@attribute 2 BRANCH_COUNT numeric
+@attribute 3 LOC_CODE_AND_COMMENT numeric
+@attribute 4 LOC_COMMENTS numeric
+@attribute 5 CYCLOMATIC_COMPLEXITY numeric
+@attribute 6 DESIGN_COMPLEXITY numeric
+@attribute 7 ESSENTIAL_COMPLEXITY numeric
+@attribute 8 LOC_EXECUTABLE numeric
+@attribute 9 HALSTEAD_CONTENT numeric
+@attribute 10 HALSTEAD_DIFFICULTY numeric
+@attribute 11   HALSTEAD_EFFORT numeric
+@attribute 12  HALSTEAD_ERROR_EST numeric
+@attribute 13  HALSTEAD_LENGTH numeric
+@attribute 14  HALSTEAD_LEVEL numeric
+@attribute 15  HALSTEAD_PROG_TIME numeric
+@attribute 16  HALSTEAD_VOLUME numeric
+@attribute 17  NUM_OPERANDS numeric
+@attribute 18  NUM_OPERATORS numeric
+@attribute 19  NUM_UNIQUE_OPERANDS numeric
+@attribute 20  NUM_UNIQUE_OPERATORS numeric
+@attribute 21  LOC_TOTAL numeric
+@attribute label {Y,N}

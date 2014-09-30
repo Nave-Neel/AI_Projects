@@ -1,0 +1,8 @@
+ K:1 Accuracy:56.1111
+ K:3 Accuracy:56.7778
+ K:5 Accuracy:57.7778
+ K:15 Accuracy:58
+ K:25 Accuracy:58.7778
+ K:51 Accuracy:60.2222
+Best K:51
+Accuracy on Test:58
